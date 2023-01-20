@@ -1,6 +1,6 @@
 # Vector-RotationMatrix-Lib
 
-A matrix library for calculating rotation matrices used in 3-dimensional Cartesian coordinate space.
+A C++ library for calculating rotation matrices used in 3-dimensional Cartesian coordinate space.
 
 ## Things to Know
 - Rotation matrices can be used to track the orientation of a mobile rigid-body relative to a world axis reference frame. 
