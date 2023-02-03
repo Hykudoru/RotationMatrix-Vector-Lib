@@ -1,4 +1,4 @@
-# Vector-RotationMatrix-Lib
+# RotationMatrix-Vector-Lib
 
 A C++ library for calculating rotation matrices used in 3-dimensional Cartesian coordinate space.
 
